@@ -33,13 +33,6 @@ Information Science & Engineering Student | Backend • AI/ML • Full Stack
 ---
 
 ### 🛠️ Technical Skills
-**Programming:** Java, Python, C, SQL, JavaScript  
-**Web & Backend:** HTML, CSS, JavaScript, REST APIs, JDBC  
-**Machine Learning:** CNNs, Classification, Regression, Feature Engineering, Data Preprocessing  
-**Frameworks/Libraries:** TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy  
-**Databases:** MySQL, Database Design, Query Optimization  
-**Software Engg:** OOP, DSA, SDLC, Multithreading, Debugging  
-**Testing & Tools:** Selenium, JUnit, Postman, Git, GitHub, VS Code, IntelliJ
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,mysql,git,tensorflow" />
