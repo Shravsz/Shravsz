@@ -55,8 +55,6 @@ Information Science & Engineering Student | Backend • AI/ML • Full Stack
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravsz&theme=radical" height="160"/>
 </p>
 
-> 🔁 If you change your username later, replace `Shravsz` with your new one in the links above.
-
 ---
 
 ### 🌐 Connect With Me
